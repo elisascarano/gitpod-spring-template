@@ -1,0 +1,6 @@
+@url = https://8080-elisascaran-gitpodsprin-z6svfg1z4cx.ws-us116.gitpod.io
+###
+GET {{url}}/frutas
+
+###
+GET{{url}}/frutas/2
